@@ -92,4 +92,4 @@ This experience fueled my desire to pursue a computer science degree. The ever-e
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuresh-surve&show_icons=true&locale=en&theme=merko" alt="mayuresh-surve" /></p><br> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh-surve&&theme=merko" alt="mayuresh-surve" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh-surve&&theme=merko" alt="mayuresh-surve" /></p> -->
