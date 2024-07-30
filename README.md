@@ -5,7 +5,7 @@
 
 As a recent graduate from **New Jersey Institute of Technology** with a **Master of Science in Computer Science**, I have honed my skills in software engineering, cloud computing, and database management. With a strong academic foundation and hands-on experience, I'm passionate about developing innovative solutions to solve complex problems and drive technological advancements.
 
-- 🌱 I’m currently learning **Kafka and Prompt Engineering**
+- 🌱 I’m currently learning **React and Kafka**
 
 - 💬 Ask me about **Application developement and Database Management**
 
