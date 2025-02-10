@@ -80,7 +80,7 @@ This experience fueled my desire to pursue a computer science degree. The ever-e
 <h3>🤝 &nbsp;Connect with Me !! </h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayuresh-surve/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjs282@njit.edu)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayureshjsurve@gmail.com)
 
 <hr>
 <h3> My GitHub Analytics </h3>
