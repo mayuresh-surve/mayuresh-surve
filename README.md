@@ -83,10 +83,9 @@ This experience fueled my desire to pursue a computer science degree. The ever-e
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayureshjsurve@gmail.com)
 
 <hr>
-<h3> My GitHub Analytics </h3>
+<!-- <!-- <h3> My GitHub Analytics </h3> -->
 
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuresh-surve&show_icons=true&locale=en&layout=compact&theme=merko" alt="mayuresh-surve" /></p><be>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuresh-surve&show_icons=true&locale=en&layout=compact&theme=merko" alt="mayuresh-surve" /></p><be> --> -->
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuresh-surve&show_icons=true&locale=en&theme=merko" alt="mayuresh-surve" /></p><br> -->
